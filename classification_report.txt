@@ -1,0 +1,10 @@
+Classification Report
+============================================================
+              precision    recall  f1-score   support
+
+       clean     1.0000    1.0000    1.0000        50
+    polluted     1.0000    1.0000    1.0000        50
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100

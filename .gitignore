@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Logs
+logs/
+*.log
+
+# Predictions (can be regenerated)
+predictions/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large dataset (we'll handle separately)
+# Keep dataset for Streamlit cloud to work

@@ -1,0 +1,13 @@
+(
+echo tensorflow==2.12.0
+echo numpy==1.23.5
+echo pandas==2.0.3
+echo matplotlib==3.7.1
+echo seaborn==0.12.2
+echo scikit-learn==1.3.0
+echo opencv-python==4.8.0.76
+echo Pillow==9.5.0
+echo streamlit==1.24.0
+echo plotly==5.15.0
+echo tqdm==4.65.0
+) > requirements.txt
