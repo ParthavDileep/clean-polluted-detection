@@ -1,13 +1,12 @@
-(
-echo tensorflow==2.12.0
-echo numpy==1.23.5
-echo pandas==2.0.3
-echo matplotlib==3.7.1
-echo seaborn==0.12.2
-echo scikit-learn==1.3.0
-echo opencv-python==4.8.0.76
-echo Pillow==9.5.0
-echo streamlit==1.24.0
-echo plotly==5.15.0
-echo tqdm==4.65.0
-) > requirements.txt
+tensorflow-cpu==2.15.0
+numpy==1.26.4
+pandas==2.1.4
+matplotlib==3.8.2
+seaborn==0.13.1
+scikit-learn==1.4.0
+opencv-python-headless==4.9.0.80
+Pillow==10.2.0
+streamlit==1.31.0
+plotly==5.18.0
+tqdm==4.66.1
+h5py==3.10.0
